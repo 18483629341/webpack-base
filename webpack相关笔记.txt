@@ -1,0 +1,18 @@
+                   https://segmentfault.com/a/1190000006178770#articleHeader2        
+  不变的 webpack.config.js   
+    npm init 
+    生成 package.json
+    
+   建立本地服务器webpack-dev-server   就需要  npm install --save-dev webpack-dev-server
+                                                                      npm install webpack-server --save
+    npm start   
+    直接生成  bundle.js
+
+    以上跟node_modules无关
+
+
+
+
+  后续还有babel相应的配置
+     // npm一次性安装多个依赖模块，模块之间用空格隔开
+    npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-react
